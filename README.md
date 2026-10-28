@@ -7,9 +7,6 @@ This project is a solution to the [Insure landing page challenge on Frontend Men
 Users should be able to:
 
 * View the optimal layout depending on their device's screen size, with layouts for mobile, tablet, and desktop
-* Open and close the navigation menu on mobile and tablet
-* Navigate the menu using a keyboard and close it with the Escape key
-* Access the header navigation while scrolling
 * See hover and keyboard focus states for interactive elements
 
 ### AI Experiment
